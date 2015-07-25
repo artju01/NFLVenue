@@ -10,14 +10,14 @@
 	<string>NFL12</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>9D6D5A5F1E9B5CD29BDD0FD6A9B0443116623739</key>
+		<key>5F1D4CB940199B407537F4B91C95AF5DAFD58C8A</key>
 		<string>https://github.com/artju01/NFLVenue.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>NFL12/NFL12.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>9D6D5A5F1E9B5CD29BDD0FD6A9B0443116623739</key>
+		<key>5F1D4CB940199B407537F4B91C95AF5DAFD58C8A</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9D6D5A5F1E9B5CD29BDD0FD6A9B0443116623739</string>
+	<string>5F1D4CB940199B407537F4B91C95AF5DAFD58C8A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9D6D5A5F1E9B5CD29BDD0FD6A9B0443116623739</string>
+			<string>5F1D4CB940199B407537F4B91C95AF5DAFD58C8A</string>
 			<key>IDESourceControlWCCName</key>
 			<string>NFLVenue</string>
 		</dict>

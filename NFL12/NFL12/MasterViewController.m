@@ -59,7 +59,6 @@
             NSArray *loadedArray = (NSArray *)JSONData;
             if ([loadedArray isKindOfClass:[NSArray class]])
             {
-                
                 for (NSDictionary *venueDict in loadedArray)
                 {
                     NFLVenueData *venueData = [[NFLVenueData alloc] init];
@@ -130,7 +129,6 @@
     return cell;
 }
 
-
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath
 {
     NFLVenueData *venueData = [self.objects objectAtIndex:[indexPath row]];
@@ -147,7 +145,6 @@
 - (BOOL)tableView:(UITableView *)tableView canEditRowAtIndexPath:(NSIndexPath *)indexPath {
     return NO;
 }
-
 
 #pragma mark - Table View Cell
 
